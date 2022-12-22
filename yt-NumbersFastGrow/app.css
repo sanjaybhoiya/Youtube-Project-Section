@@ -1,0 +1,30 @@
+*{
+    margin:0%;
+    padding: 0%;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:hsl(222, 100%, 56%)
+}
+
+.container{
+padding: 24px;
+
+
+}
+
+span{
+    
+    font-size: 62px;
+}
+p{
+    font-size: x-large;
+    color:hsl(222, 100%, 22%)
+}
+
